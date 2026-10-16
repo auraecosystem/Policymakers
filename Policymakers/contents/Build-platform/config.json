@@ -1,0 +1,8 @@
+{
+  "endpoint": "gh.io/Policymakers/contents/Build-platform/@in-built-model",
+  "page": 1,
+  "perPage": 100,
+  "repo": "gh-io/Policymakers",
+  "task": "list in-built-model directory contents",
+  "userQuery": "List files in the Build-platform in-built-model folder to understand the project’s build system."
+}
